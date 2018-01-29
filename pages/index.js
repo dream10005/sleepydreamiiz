@@ -14,9 +14,9 @@ export default () => (
         <h1>SleepyDreamiiz</h1>
 
         <nav>
-          <a>Behance</a>
-          <a>Github</a>
-          <a target="_blank" href="https://twitter.com/rauchg">Blog</a>
+          <a target="_blank" href="https://github.com/dream10005">Github</a>
+          <a target="_blank" href="https://www.behance.net/dreamiizkw">Behance</a>
+          <Link href="/essays"><a>Blog</a></Link>
           <Link href="/essays"><a>Works</a></Link>
           <Link href="/about"><a>About</a></Link>
         </nav>
